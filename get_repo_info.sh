@@ -16,3 +16,5 @@ curl -u "eacharya:$pass" \
   > $filename
 
 git clone "https://eacharya:$pass@github.com/zigvu/$repo.wiki.git"
+
+rm -rf "$repo.wiki/.git*"

@@ -1,0 +1,1 @@
+Browse to the "Pages" page to look at wiki pages.
